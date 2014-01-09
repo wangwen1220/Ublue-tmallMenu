@@ -13,4 +13,4 @@ CSS方面属于参考天猫，jquery则完全是自己摸爬滚打。折叠的�
 
 测试环境：IE6-10、Chrome 23、Firefox 18、Oprea 12、Safari 5.1
 
-原谅地址：http://www.bluesdream.com/blog/jquery-floating-folding-menu-imitation-tmall.html
+原文地址：http://www.bluesdream.com/blog/jquery-floating-folding-menu-imitation-tmall.html
